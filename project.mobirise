@@ -41,7 +41,8 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "siteFonts": []
+    "siteFonts": [],
+    "google-analytics": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126818998-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126818998-1');\r\n</script>"
   },
   "pages": {
     "index.html": {
