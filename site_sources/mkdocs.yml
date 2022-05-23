@@ -1,0 +1,12 @@
+site_name: M. Shifat Hossain
+site_url: http://shifathossain.github.io
+nav:
+  - Home: index.md
+  - Courses Taken: courses.md
+  - Courses Taught: subjects.md
+  - GRE & IELTS Scores: score.md
+  - Research: research.md
+  - Projects: projects.md
+  - Blogs: blogs/blog_main.md
+theme:
+  name: material
