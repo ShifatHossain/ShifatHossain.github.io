@@ -10,18 +10,21 @@
 </table>
 
 
-<div style="text-align: justify"> A fresh Masters graduate in Electronics Engineering with 2 years of research experience on hardware development, Biomedical signal and image processing, and Machine learning. Also have experience of teaching bachelor level students in a University as a Lecturer.</div>
+<div style="text-align: justify"> A PhD student in Electrical Engineering at University of Central Florida. Received Master's degree in Electronics Engineering with 2 years of research experience on hardware development, Machine Learning, and Biomedical signal and image processing. Also have experience of teaching bachelor level students in a University as a Lecturer.</div>
 <br/>
-<div style="font-style:italic;text-align: justify"><strong>Current research interests:</strong> Monte Carlo simulation in computational biomedical engineering, Biomedical signal/image processing, Machine Learning and Deep Learning, Digital image processing, Digital signal/audio processing.</div>
+<div style="font-style:italic;text-align: justify"><strong>Current research interests:</strong> Machine Learning and Deep Learning, Digital image processing, Digital signal/audio processing, Biomedical signal/image processing.</div>
 <br />
 
-[**Download CV (PDF)**](./CV/Academic_CV_2021.pdf)     <br /><br /><br />
+[**Download CV (PDF)**](./CV/CV_Shifat Hossain (2022).pdf)     <br /><br /><br />
 
 
 
 ---
 ## Education
 
+* **PhD in Electrical Engineering** - August, 2022
+    * **Institution**: University of Central Florida, Orlando, FL, USA
+    * **Research Interests**: Machine Learning, Signal processing, Digital image processing, Biomedical signal processing
 * **Masters of Science in Electronics Engineering** - March, 2021
     * **Institution**: Kookmin University, Seoul, Korea
     * **Major**: Electronics Engineering
@@ -44,11 +47,11 @@
 ---
 ## Technical and Personal Skills
 
-* **Programming Languages**: C/C++ (GCC/LLVM Clang), Python, GNU Octave/MATLAB, Java.
+* **Programming Languages**: Python, C/C++ (GCC/LLVM Clang), GNU Octave/MATLAB, Java.
 * **Deep learning tools**: Keras, TensorFlow, PyTorch.
 * **Platform, Frameworks and IDEs**: Android (Android Studio, Java), VSCode, OpenGL.
-* **Circuit designing, Simulation and PCB Designing**: Kicad, Eagle Cad, Proteus, Designsoft TINA.
-* **Hardware Prototype Designing**: Arduino, ESP32, Embedded boards (Raspberry Pi), Atmel AVRs.
+* **Circuit designing, Simulation and PCB Designing**: Kicad, Eagle Cad, Proteus, Designsoft TINA, Cadence Virtuoso, Diptrace.
+* **Hardware Prototype Designing**: Arduino, ESP32, Raspberry Pi, Atmel AVRs.
 * **Graphics Programming, Model Designing and Simulation**: FreeCad, Blender, Unity Game Engine.
 ---
 ## Work Experiences
