@@ -4,7 +4,8 @@
 <thead>
   <tr>
     <td><img src="./images/p2_e.jpg" alt="drawing" width="200" /></td>
-    <td><br><br><strong>M. Shifat Hossain</strong><br><br>Ph.D. Student<br>Graduate Research Assistant<br>AI and Computing Laboratory<br>Department of Electrical and Computer Engineering<br>University of Central Florida<br>Orlando, FL, USA</td>
+    <td><br><strong>M. Shifat Hossain</strong><br><br>Ph.D. Student<br>Graduate Research Assistant<br>AI and Computing Laboratory<br>Department of Electrical and Computer Engineering<br>University of Central Florida<br>Orlando, FL, USA<br><br>Email: <a href="mailto:shifathosn@knights.ucf.edu">shifathosn@knights.ucf.edu</a><br><br>
+</td>
     </tr>
 </thead>
 </table>
@@ -86,3 +87,4 @@ Worked as a graphics designer and technical core in the Inter University Tech Fi
 Volunteered in the International Conference on Electrical Information and Communication Technology (EICT) as a technical operator. 
 4. **PROGRAMMING LANGUAGE TRAINER | HERTZ, KUET | Jun 2014 - Jun 2015:**
 In this workshop named “Human Enlightenment and Researching Technical Zone (HERTZ)”, we trained the students from beginner to advanced levels of C/C++ programming language.
+

@@ -33,3 +33,4 @@ Follow my Researchgate profile [here](http://www.researchgate.net/profile/Shifat
 6.	**S. Hossain**, S. S. Khan, M. S. H. Sunny, and M. Ahmad, “Frequency component grouping based sound source extraction from mixed audio signals using spectral analysis,” in 2017 3rd International Conference on Electrical Information and Communication Technology (EICT), Dec. 2017, pp. 1–6. doi: 10.1109/EICT.2017.8275145.
 7.	Md. S. H. Sunny, E. Hossain, T. N. Mimma, and **S. Hossain**, “An autonomous robot: Using ANN to navigate in a static path,” in 2017 4th International Conference on Advances in Electrical Engineering (ICAEE), Sep. 2017, pp. 291–296. doi: 10.1109/ICAEE.2017.8255369.
 8.	Md. K. Hasan, Md. S. H. Sunny, **S. Hossain**, and M. Ahmad, “User Independency of SSVEP Based Brain Computer Interface Using ANN Classifier: Statistical Approach,” in Recent Advances in Information and Communication Technology 2017, Cham, 2018, pp. 58–68. doi: 10.1007/978-3-319-60663-7_6.
+
