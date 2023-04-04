@@ -2,42 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://shifathossain.github.io/</loc>
-         <lastmod>2022-10-27</lastmod>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://shifathossain.github.io/courses/</loc>
-         <lastmod>2022-10-27</lastmod>
+         <lastmod>2023-04-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://shifathossain.github.io/media/</loc>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://shifathossain.github.io/projects/</loc>
-         <lastmod>2022-10-27</lastmod>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://shifathossain.github.io/publications/</loc>
-         <lastmod>2022-10-27</lastmod>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://shifathossain.github.io/score/</loc>
-         <lastmod>2022-10-27</lastmod>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://shifathossain.github.io/subjects/</loc>
-         <lastmod>2022-10-27</lastmod>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://shifathossain.github.io/CV/</loc>
-         <lastmod>2022-10-27</lastmod>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>http://shifathossain.github.io/blogs/blog_main/</loc>
-         <lastmod>2022-10-27</lastmod>
+         <lastmod>2023-04-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

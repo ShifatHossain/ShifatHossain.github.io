@@ -7,6 +7,7 @@ nav:
   - GRE & IELTS Scores: score.md
   - Publications: publications.md
   - Projects: projects.md
+  - Media Coverage: media.md
   - Blogs: blogs/blog_main.md
 theme:
   name: material
