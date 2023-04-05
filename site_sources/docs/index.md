@@ -72,7 +72,7 @@ Designed a web based agricultural data repository for Bangladesh Institute of IC
 
 ---
 ## Honors and Awards
-1. **ORCGS Doctoral Fellowship | University of Central Florida | August 2022:**
+1. **ORCGS DOCTORAL FELLOWSHIP | UNIVERSITY OF CENTRAL FLORIDA | AUGUST 2022:**
 Received ORCGS Doctoral Fellowship for excellent academic background upon enrollment in the Department of Electrical and Computer Engineering, University of Central Florida as a PhD Student.
 2. **BEST PAPER PRESENTER AWARD | IP CONFERENCE, KOOKMIN UNIVERSITY | JUNE 2020:**
 The presentation on the paper titled "Analysis of national patent statistics for Visual-MIMO" (Visual-MIMO에 대한 국가별 특허 통계 분석) received the best presenter award in an academic congress under the theme of "Development of Intellectual Property and Human Resources in the Age of the Fourth Industrial Revolution" (4차 산업혁명시대의 지식재산과 인적자원 개발).
