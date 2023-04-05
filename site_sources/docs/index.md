@@ -25,10 +25,13 @@
 
 * **PhD in Electrical Engineering** - August, 2022
     * **Institution**: University of Central Florida, Orlando, FL, USA
+    * **Major**: Computer Engineering
+    * **Lab Name**: AI and Emerging Computing Lab
     * **Research Interests**: Machine Learning, Signal processing, Digital image processing, Biomedical signal processing
 * **Masters of Science in Electronics Engineering** - March, 2021
     * **Institution**: Kookmin University, Seoul, Korea
     * **Major**: Electronics Engineering
+    * **Lab Name**: Multimedia, Communication, and Signal Processing Lab
     * **Research Interests**: Biomedical signal processing, Machine Learning, Signal processing, Digital image processing
     * **Thesis**: Glycated Hemoglobin Estimation Based on Photon Diffusion Theory
     * **Sessions Attended**: 2019 to 2021
@@ -56,27 +59,32 @@
 * **Graphics Programming, Model Designing and Simulation**: FreeCad, Blender, Unity Game Engine.
 ---
 ## Work Experiences
-1. **Researcher (March 2021 - Present):**
+1. **Graduate research assistant (August 2022 - Present)**
+Working as a graduate research assistant in AI and Emerging Computing Lab, Department of Electrical and Computer Engineering, University of Central Florida, Orlando, FL, USA. The research topics include explainable machine learning methods (XAI), ML model security, ML model trust.
+2. **Researcher (March 2021 - July 2022):**
 Working as a full-time researcher in Multimedia, Communication, and Signal Processing Lab, Department of Electronics Engineering, Kookmin University, Seoul, Korea. The research topics include noninvasive estimation of blood contents. Develop algorithms and devices to achieve the noninvasive in vivo measurements.
-2. **Graduate research assistant (March 2019 - February 2021):**
+3. **Graduate research assistant (March 2019 - February 2021):**
 Worked as a Graduate Research Assistant in Multimedia, Communication, and Signal Processing Lab, Department of Electronics Engineering, Kookmin University, Seoul, Korea. I have done researches on biomedical signal processing and image processing systems in this lab with hardware implementations.
-3. **Lecturer (September 2018 - February 2019)**:
+4. **Lecturer (September 2018 - February 2019)**:
 Worked as a Lecturer in Department of Electrical and Electronic Engineering, Daffodil International University. Courses Taught: Microprocessors and Interfacing, Control Systems, Electronic Devices and Circuit Theory, Random Signals and Processes, Power System Protection.
-4. **Freelance software developer (May 2015 - May 2016)**:
+5. **Freelance software developer (May 2015 - May 2016)**:
 Designed a web based agricultural data repository for Bangladesh Institute of ICT in Development (BIID) in ASP.NET. The web application is currently operational.
 
 ---
 ## Honors and Awards
-1. **BEST PAPER PRESENTER AWARD | IP CONFERENCE, KOOKMIN UNIVERSITY | JUNE 2020:**
+1. **ORCGS Doctoral Fellowship | University of Central Florida | August 2022:**
+Received ORCGS Doctoral Fellowship for excellent academic background upon enrollment in the Department of Electrical and Computer Engineering, University of Central Florida as a PhD Student.
+2. **BEST PAPER PRESENTER AWARD | IP CONFERENCE, KOOKMIN UNIVERSITY | JUNE 2020:**
 The presentation on the paper titled "Analysis of national patent statistics for Visual-MIMO" (Visual-MIMO에 대한 국가별 특허 통계 분석) received the best presenter award in an academic congress under the theme of "Development of Intellectual Property and Human Resources in the Age of the Fourth Industrial Revolution" (4차 산업혁명시대의 지식재산과 인적자원 개발).
-2. **BEST POSTER PRESENTATION AWARD | IP CONFERENCE, KOOKMIN UNIVERSITY | APRIL 2019:**
+3. **BEST POSTER PRESENTATION AWARD | IP CONFERENCE, KOOKMIN UNIVERSITY | APRIL 2019:**
 The poster presentation on the paper titled "Statistical Analysis of IP Documents on "Artificial Neural Network" from Google Patents Database" received the best presenter award in an academic congress under the theme of "Education of Intellectual Property and Training of Personnel" (지식재산 교육 및 인력양성).
-3. **DR. FATIMA RASHID BEST PAPER AWARD | ICAEE 2017, IUB | SEP 2017:**
+4. **DR. FATIMA RASHID BEST PAPER AWARD | ICAEE 2017, IUB | SEP 2017:**
 The paper titled “An Autonomous Robot: Using ANN to Navigate in a Static Path” got best paper award in International Conference on Advances in Electrical Engineering (ICAEE), 2017 which was organized by Independent University, Bangladesh (IUB).
-4. **TECHNICAL SCHOLARSHIP | KUET | 2014 – 2017:**
+5. **TECHNICAL SCHOLARSHIP | KUET | 2014 – 2017:**
 Khulna University of Engineering & Technology (KUET) awarded technical scholarship for excellence in academic performances. 
-5. **AWARD OF EXCELLENCE | EEE ASSOCIATION, KUET | MAY 2015:**
+6. **AWARD OF EXCELLENCE | EEE ASSOCIATION, KUET | MAY 2015:**
 This honor was awarded by the EEE Association, Khulna University of Engineering & Technology (KUET) for the post of “Assistant General Secretary” of EEE Association, KUET. 
+
 ---
 ## Volunteer Experiences
 1. **PROJECT SHOWCASING MENTOR | IEEE STUDENT BRANCH, KUET | DEC 2016:**
