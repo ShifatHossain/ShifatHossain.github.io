@@ -8,6 +8,7 @@ nav:
   - Publications: publications.md
   - Projects: projects.md
   - Media Coverage: media.md
+  - Scientific Papers Reviewed: reviews.md
   - Blogs: blogs/blog_main.md
 theme:
   name: material

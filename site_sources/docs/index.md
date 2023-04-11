@@ -1,5 +1,7 @@
 # Profile Summary
 
+<script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
 <table>
 <thead>
   <tr>

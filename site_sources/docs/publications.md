@@ -1,6 +1,8 @@
 # Publications
 Follow my Researchgate profile [here](http://www.researchgate.net/profile/Shifat_Hossain).
 
+<script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
 ## Patents
 1.  김기두 (Ki-Doo Kim) and **시팟호세인 (Shifat Hossain)**, “Noninvasive glycated hemoglobin or blood glucose measurement system and method which use monte-carlo simulation,” WO2022045822A1, Mar. 03, 2022 Accessed: May 23, 2022. [Online](https://patents.google.com/patent/WO2022045822A1/en)
 2.  김기두 (Ki-Doo Kim) and **시팟호세인 (Shifat Hossain)**, “Noninvasive hba1c measurement system and method using monte carlo simulation,” KR20220027515A, Mar. 08, 2022 Accessed: May 23, 2022. [Online](https://patents.google.com/patent/KR20220027515A/en)

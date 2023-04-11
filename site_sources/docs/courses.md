@@ -1,5 +1,7 @@
 # Featured Courses Taken
 
+<script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
 #### Masters in Electronics Engineering
 * Speciliazed Digital Signal Processing
 * Energy Network Analysis and Optimization

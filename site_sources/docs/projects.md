@@ -1,6 +1,8 @@
 # Projects
 Follow my Github profile [here](https://github.com/shifathossain).
 
+<script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
 <style>
   .fill {
     display: flex;

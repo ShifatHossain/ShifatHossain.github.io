@@ -1,4 +1,7 @@
 #### GRE
+
+<script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
 <div style="color: #808080;"> Test taken on July 31, 2021 </div>
 GRE Overall Score: 318
 <br/>Quant Score: 166 (86th percentile)
