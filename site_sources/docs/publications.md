@@ -1,6 +1,19 @@
 # Publications
 Follow my Researchgate profile [here](http://www.researchgate.net/profile/Shifat_Hossain).
 
+Follow my Google Scholar profile [here](https://scholar.google.com/citations?user=p-dnT8MAAAAJ&hl=en).
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script> -->
+
+
+<!-- <div id='temp'></div>
+<script>
+    $.getJSON("http://cse.bth.se/~fer/googlescholar-api/googlescholar.php?user=p-dnT8MAAAAJ",function(data){
+
+    });
+</script> -->
+
+
 <script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
 ## Patents
