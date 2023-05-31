@@ -18,14 +18,14 @@
 <div style="font-style:italic;text-align: justify"><strong>Current research interests:</strong> Machine Learning and Deep Learning, Digital image processing, Digital signal/audio processing, Biomedical signal/image processing.</div>
 <br />
 
-[**Download CV (PDF)**](./CV/CV_Shifat Hossain (2022).pdf)     <br /><br /><br />
+[**Download CV (PDF)**](./CV/CV_Shifat Hossain (2023).pdf)     <br /><br /><br />
 
 
 
 ---
 ## Education
 
-* **PhD in Electrical Engineering** - August, 2022
+* **PhD in Computer Engineering** - August, 2022
     * **Institution**: University of Central Florida, Orlando, FL, USA
     * **Major**: Computer Engineering
     * **Lab Name**: AI and Emerging Computing Lab
