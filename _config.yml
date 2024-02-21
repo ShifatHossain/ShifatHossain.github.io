@@ -28,7 +28,7 @@ url: "https://shifathossain.github.io/" # the base hostname & protocol for your 
 github_username:  ShifatHossain
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal #minima
 plugins:
   - jekyll-feed
 
