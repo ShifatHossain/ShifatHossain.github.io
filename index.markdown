@@ -23,7 +23,7 @@ layout: home
 </table>
 
 
-<div style="text-align: justify"> A Ph.D. student in Electrical Engineering at the University of Central Florida. Currently working on contrastive learning, diffusion models, and explainable AI systems. Received Master's degree in Electronics Engineering with 2 years of research experience in hardware development, Machine Learning, and Biomedical signal and image processing. Also, have experience teaching bachelor-level students at a University as a Lecturer.</div>
+<div style="text-align: justify"> A Ph.D. student in Computer Engineering at the University of Central Florida. Currently working on contrastive learning, diffusion models, and explainable AI systems. Received Master's degree in Electronics Engineering with 2 years of research experience in hardware development, Machine Learning, and Biomedical signal and image processing. Also, have experience teaching bachelor-level students at a University as a Lecturer.</div>
 <br/>
 <div style="font-style:italic;text-align: justify"><strong>Current research interests:</strong> Machine Learning and Deep Learning, Digital image processing, Digital signal/audio processing, Biomedical signal/image processing.</div>
 <br />
