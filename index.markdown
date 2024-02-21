@@ -28,7 +28,7 @@ layout: home
 <div style="font-style:italic;text-align: justify"><strong>Current research interests:</strong> Machine Learning and Deep Learning, Digital image processing, Digital signal/audio processing, Biomedical signal/image processing.</div>
 <br />
 
-[**Download CV (PDF)**](./CV/CV_Shifat Hossain (2023).pdf)     <br /><br /><br />
+[**Download CV (PDF)**](./CV/CV_Shifat Hossain (2024).pdf)     <br /><br /><br />
 
 
 
