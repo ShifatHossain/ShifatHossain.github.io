@@ -20,12 +20,6 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
     });
 </script> -->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-
-<script>
-    $('#gsc_rsb_cit').load('https://scholar.google.com/citations?user=p-dnT8MAAAAJ&hl=en');
-</script>
-    
 <script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
 ## Patents
