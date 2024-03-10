@@ -20,6 +20,8 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
     });
 </script> -->
 
+<script src="jquery-3.7.1.min.js"></script>
+$('gsc_rsb_cit').load('https://scholar.google.com/citations?user=p-dnT8MAAAAJ&hl=en');
 
 <script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
