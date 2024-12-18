@@ -29,6 +29,7 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
 4.	김기두 (Ki-Doo Kim) and **시팟호쎈 (Shifat Hossain)**, “Noninvasive HbA1c Measurement System Using Photon-Diffusion Theory and Method Thereof,” KR20210137769A, Nov. 18, 2021 Accessed: Jan. 26, 2022. [Online](https://patents.google.com/patent/KR20210137769A/en).
 5.  김기두 (Ki-Doo Kim) and **시팟호쎈 (Shifat Hossain)**, “System and method for non-invasive measurement of glycated hemoglobin,” WO2021210724A1, Oct. 21, 2021 Accessed: Feb. 09, 2022. [Online](https://patents.google.com/patent/WO2021210724A1/en).
 6.	김기두 (Ki-Doo Kim) and **시팟호쎈 (Shifat Hossain)**, “Noninvasive HbA1c Measurement System Using the Beer-Lambert law and Method Thereof,” KR20210126952A, Oct. 21, 2021 Accessed: Jan. 26, 2022. [Online](https://patents.google.com/patent/KR20210126952A/en).
+{: reversed="reversed"}
 
 ## Journals
 1. T.-H. Kwon, **S. Hossain**, Mrinmoy Sarker Turja, and K.-D. Kim, “Design and Validation of a Monte Carlo Method for the Implementation of Noninvasive Wearable Devices for HbA1c Estimation Considering the Skin Effect,” Micromachines, vol. 15, no. 9, pp. 1067–1067, Aug. 2024, doi: 10.3390/mi15091067.
@@ -45,6 +46,7 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
 12.	**S. Hossain**, S. S. Gupta, T.-H. Kwon, and K.-D. Kim, “Derivation and Validation of Gray-Box Models to Estimate Noninvasive In-vivo Percentage Glycated Hemoglobin Using Digital Volume Pulse Waveform,” *Scientific Reports*, Jun. 2021, doi: 10.1038/s41598-021-91527-2.
 13.	S. Sen Gupta, **S. Hossain**, and K.-D. Kim, “HDR-Like Image from Pseudo-Exposure Image Fusion: A Genetic Algorithm Approach,” *IEEE Transactions on Consumer Electronics*, vol. 67, no. 2, pp. 119–128, May 2021, doi: 10.1109/TCE.2021.3066431.
 14.	P. P. Banik, **S. Hossain**, T.-H. Kwon, H. Kim, and K.-D. Kim, “Development of a Wearable Reflection-Type Pulse Oximeter System to Acquire Clean PPG Signals and Measure Pulse Rate and SpO2 with and without Finger Motion,” *Electronics*, vol. 9, no. 11, Art. no. 11, Nov. 2020, doi: 10.3390/electronics9111905.
+{: reversed="reversed"}
 
 
 ## Conferences
