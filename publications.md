@@ -22,6 +22,78 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
 
 <script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
+# Citation Metrics
+
+<div id="metrics" style="font-size: 1.1em; margin-bottom: 1em;">
+  <p><strong>Total Citations:</strong> <span id="totalCitations">Loading...</span></p>
+  <p><strong>h-index:</strong> <span id="hIndex">Loading...</span></p>
+  <p><strong>Last Updated:</strong> <span id="lastUpdated">Loading...</span></p>
+</div>
+
+<div style="width: 100%; max-width: 600px;">
+  <canvas id="citationsChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  const API_URL = "http://[2603:9001:2800:1c59:9d1:616:a6ec:4a8]:5000/api/citations";
+
+  fetch(API_URL)
+    .then(res => res.json())
+    .then(data => {
+      // Set citation metrics
+      const citationCounts = Object.values(data.citations);
+      const years = Object.keys(data.citations);
+
+      const total = citationCounts.reduce((a, b) => a + b, 0);
+      document.getElementById("totalCitations").textContent = total;
+      document.getElementById("hIndex").textContent = data.h_index;
+      document.getElementById("lastUpdated").textContent = new Date(data.last_updated).toLocaleString();
+
+      // Render Chart
+      const ctx = document.getElementById('citationsChart').getContext('2d');
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: years,
+          datasets: [{
+            label: 'Citations per Year',
+            data: citationCounts,
+            backgroundColor: 'rgba(100, 100, 100, 0.8)',
+            borderColor: 'rgba(50, 50, 50, 1)',
+            borderWidth: 1
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: {
+              beginAtZero: true,
+              ticks: {
+                precision: 0
+              }
+            }
+          },
+          plugins: {
+            legend: {
+              display: false
+            }
+          }
+        }
+      });
+    })
+    .catch(err => {
+      document.getElementById("metrics").innerHTML =
+        "<p style='color:red;'>Failed to load citation data. Please check if the API server is running.</p>";
+      document.getElementById("citationsChart").outerHTML = "";
+      console.error("Error fetching data:", err);
+    });
+</script>
+
+# Citation metrics end
+
+
+
 ## Patents
 1.  김기두 (Ki-Doo Kim) and **시팟호세인 (Shifat Hossain)**, “Noninvasive glycated hemoglobin or blood glucose measurement system and method which use monte-carlo simulation,” WO2022045822A1, Mar. 03, 2022 Accessed: May 23, 2022. [Online](https://patents.google.com/patent/WO2022045822A1/en)
 2.  김기두 (Ki-Doo Kim) and **시팟호세인 (Shifat Hossain)**, “Noninvasive hba1c measurement system and method using monte carlo simulation,” KR20220027515A, Mar. 08, 2022 Accessed: May 23, 2022. [Online](https://patents.google.com/patent/KR20220027515A/en)
