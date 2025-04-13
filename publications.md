@@ -22,7 +22,7 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
 
 <script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
-# Citation Metrics
+## Citation Data
 
 <div id="metrics" style="font-size: 1.1em; margin-bottom: 1em;">
   <p><strong>Total Citations:</strong> <span id="totalCitations">Loading...</span></p>
@@ -89,8 +89,6 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
       console.error("Error fetching data:", err);
     });
 </script>
-
-# Citation metrics end
 
 
 
