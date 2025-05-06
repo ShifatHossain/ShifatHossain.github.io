@@ -9,30 +9,33 @@ permalink: /hobbies/
 
 <script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
-# 🌍 Places I Visited
+# 🌍 Places I Have Visited
 
 <canvas id="mapChart" width="800" height="450"></canvas>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4.2.1/build/index.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4.3.4/build/index.umd.min.js"></script>
 
 <script>
   const visitedPlaces = [
     { latitude: 23.8103, longitude: 90.4125, name: "Dhaka" },
     { latitude: 40.7128, longitude: -74.0060, name: "New York" },
-    { latitude: 48.8566, longitude: 2.3522, name: "Paris" }
+    { latitude: 48.8566, longitude: 2.3522, name: "Paris" },
+    { latitude: 35.6895, longitude: 139.6917, name: "Tokyo" }
   ];
 
-  fetch('https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4.2.1/world.geo.json')
+  fetch('https://unpkg.com/world-atlas@2.0.2/countries-50m.json')
     .then(res => res.json())
-    .then(world => {
+    .then(data => {
+      const countries = ChartGeo.topojson.feature(data, data.objects.countries).features;
+
       const ctx = document.getElementById("mapChart").getContext("2d");
       new Chart(ctx, {
         type: "bubbleMap",
         data: {
           labels: visitedPlaces.map(p => p.name),
           datasets: [{
-            label: "Visited",
+            label: "Visited Places",
             data: visitedPlaces.map(p => ({
               latitude: p.latitude,
               longitude: p.longitude,
@@ -56,7 +59,7 @@ permalink: /hobbies/
             }
           },
           geo: {
-            map: world
+            map: countries
           }
         }
       });
@@ -65,6 +68,7 @@ permalink: /hobbies/
       console.error("Failed to load map or render chart:", error);
     });
 </script>
+
 
 
 
