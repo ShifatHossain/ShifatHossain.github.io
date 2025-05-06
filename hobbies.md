@@ -9,36 +9,30 @@ permalink: /hobbies/
 
 <script data-goatcounter="https://shifathsn.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
-# Places I Have Visited
+# 🌍 Places I Visited
 
-<div style="max-width: 800px;">
-  <canvas id="worldMapChart"></canvas>
-</div>
+<canvas id="mapChart" width="800" height="450"></canvas>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4.2.1/build/index.umd.min.js"></script>
 
 <script>
-  // Replace these with your own visited places (lat, lon, label)
   const visitedPlaces = [
-    { latitude: 28.6139, longitude: 77.2090, name: "New Delhi, India" },
-    { latitude: 40.7128, longitude: -74.0060, name: "New York, USA" },
-    { latitude: 48.8566, longitude: 2.3522, name: "Paris, France" },
-    { latitude: 23.8103, longitude: 90.4125, name: "Dhaka, Bangladesh" }
+    { latitude: 23.8103, longitude: 90.4125, name: "Dhaka" },
+    { latitude: 40.7128, longitude: -74.0060, name: "New York" },
+    { latitude: 48.8566, longitude: 2.3522, name: "Paris" }
   ];
 
-  // Load world map topology data
   fetch('https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4.2.1/world.geo.json')
     .then(res => res.json())
-    .then(topology => {
-      const ctx = document.getElementById("worldMapChart").getContext("2d");
-
+    .then(world => {
+      const ctx = document.getElementById("mapChart").getContext("2d");
       new Chart(ctx, {
         type: "bubbleMap",
         data: {
           labels: visitedPlaces.map(p => p.name),
           datasets: [{
-            label: "Visited Places",
+            label: "Visited",
             data: visitedPlaces.map(p => ({
               latitude: p.latitude,
               longitude: p.longitude,
@@ -48,31 +42,30 @@ permalink: /hobbies/
           }]
         },
         options: {
-          responsive: true,
-          showOutline: true,
-          showGraticule: true,
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: ctx => ctx.chart.data.labels[ctx.dataIndex]
+              }
+            }
+          },
           scales: {
             xy: {
               projection: "equalEarth"
             }
           },
-          plugins: {
-            tooltip: {
-              callbacks: {
-                label: (ctx) => ctx.chart.data.labels[ctx.dataIndex]
-              }
-            },
-            legend: {
-              display: false
-            }
-          },
           geo: {
-            map: topology
+            map: world
           }
         }
       });
+    })
+    .catch(error => {
+      console.error("Failed to load map or render chart:", error);
     });
 </script>
+
 
 
 # 🌍 Travel Gallery
