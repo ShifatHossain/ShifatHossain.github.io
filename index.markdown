@@ -16,7 +16,7 @@ layout: home
 <thead>
   <tr>
     <td><img src="./images/p2_e.jpg" alt="drawing" width="200" /></td>
-    <td><br><strong>M Shifat Hossain</strong><br><br>Ph.D. Student<br>Graduate Research Assistant<br>AI and Computing Laboratory<br>Department of Electrical and Computer Engineering<br>University of Central Florida<br>Orlando, FL, USA<br><br>Email: <a href="mailto:mshifat.hossain@ucf.edu">mshifat.hossain@ucf.edu</a><br><br>
+    <td><br><strong>M Shifat Hossain</strong><br><br>Ph.D. Candidate<br>Graduate Research Assistant<br>AI and Computing Laboratory<br>Department of Electrical and Computer Engineering<br>University of Central Florida<br>Orlando, FL, USA<br><br>Email: <a href="mailto:mshifat.hossain@ucf.edu">mshifat.hossain@ucf.edu</a><br><br>
 </td>
     </tr>
 </thead>
