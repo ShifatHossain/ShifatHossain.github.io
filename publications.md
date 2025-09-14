@@ -93,9 +93,9 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
 
 
 ## Patents
-8\.	Ki-Doo Kim, Tae-Ho Kwon, and **Shifat Hossain**, “Non-invasive biosignal measurement device and method based on skin effect removal,” KR Patent: KR102595803B1. Issued: October 30, 2023. [Online](https://patents.google.com/patent/KR102595803B1/en)  
-7\.	Ki-Doo Kim, Tae-Ho Kwon, and **Shifat Hossain**, “Non-invasive biosignal measurement device based on skin effect removal,” KR Patent: KR102591405B1. Issued: October 19, 2023. [Online](file:///s://patents.google.com/patent/KR102591405B1/en)  
-6\.	Ki-Doo Kim, Tae-Ho Kwon, and **Shifat Hossain**, “Method and Apparatus for Non-Invasive Measurement of Glycated Hemoglobin using Monte Carlo Simulation,” KR Patent: KR102439240B1. Issued: September 2, 2022. [Online](https://patents.google.com/patent/KR102439240B1/en)  
+8.	Ki-Doo Kim, Tae-Ho Kwon, and **Shifat Hossain**, “Non-invasive biosignal measurement device and method based on skin effect removal,” KR Patent: KR102595803B1. Issued: October 30, 2023. [Online](https://patents.google.com/patent/KR102595803B1/en)  
+7.	Ki-Doo Kim, Tae-Ho Kwon, and **Shifat Hossain**, “Non-invasive biosignal measurement device based on skin effect removal,” KR Patent: KR102591405B1. Issued: October 19, 2023. [Online](file:///s://patents.google.com/patent/KR102591405B1/en)  
+6.	Ki-Doo Kim, Tae-Ho Kwon, and **Shifat Hossain**, “Method and Apparatus for Non-Invasive Measurement of Glycated Hemoglobin using Monte Carlo Simulation,” KR Patent: KR102439240B1. Issued: September 2, 2022. [Online](https://patents.google.com/patent/KR102439240B1/en)  
 5\.	Ki-Doo Kim and **Shifat Hossain**, “Noninvasive HbA1c Measurement System and Method using Monte-Carlo Simulation,”  
     &emsp;- KR patent: KR102403577B1, Issued: May 31, 2022 [Online](https://patents.google.com/patent/KR102403577B1/en)  
     &emsp;- PCT application: WO2022045822A1, Published: March 03, 2022 [Online](https://patents.google.com/patent/WO2022045822A1/en)  
