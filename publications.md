@@ -97,14 +97,14 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
 2.	Ki-Doo Kim, Tae-Ho Kwon, and **Shifat Hossain**, “Non-invasive biosignal measurement device based on skin effect removal,” KR Patent: KR102591405B1. Issued: October 19, 2023. [Online](file:///s://patents.google.com/patent/KR102591405B1/en)
 3.	Ki-Doo Kim, Tae-Ho Kwon, and **Shifat Hossain**, “Method and Apparatus for Non-Invasive Measurement of Glycated Hemoglobin using Monte Carlo Simulation,” KR Patent: KR102439240B1. Issued: September 2, 2022. [Online](https://patents.google.com/patent/KR102439240B1/en)
 4.	Ki-Doo Kim and **Shifat Hossain**, “Noninvasive HbA1c Measurement System and Method using Monte-Carlo Simulation,”
-    • KR patent: KR102403577B1, Issued: May 31, 2022 [Online](https://patents.google.com/patent/KR102403577B1/en)
-    • PCT application: WO2022045822A1, Published: March 03, 2022 [Online](https://patents.google.com/patent/WO2022045822A1/en)
-    • US application: US20240233961A1, Published: June 11, 2024 [Online](https://patents.google.com/patent/US20240233961A1/en)
+    - KR patent: KR102403577B1, Issued: May 31, 2022 [Online](https://patents.google.com/patent/KR102403577B1/en)
+    - PCT application: WO2022045822A1, Published: March 03, 2022 [Online](https://patents.google.com/patent/WO2022045822A1/en)
+    - US application: US20240233961A1, Published: June 11, 2024 [Online](https://patents.google.com/patent/US20240233961A1/en)
 5. Ki-Doo Kim and **Shifat Hossain**, “Noninvasive HbA1c Measurement System and Method Thereof,” KR Patent: KR102482459B1, Issued: December 29, 2022. [Online](https://patents.google.com/patent/KR102482459B1/en)
 6. Ki-Doo Kim and **Shifat Hossain**, “Noninvasive HbA1c Measurement System using Photon-Diffusion Theory and Method Thereof,” KR Patent: KR102402263B1, Issued: May 27, 2022. [Online](https://patents.google.com/patent/KR102402263B1/en)
 7. Ki-Doo Kim and **Shifat Hossain**, “System and Method for Non-Invasive Measurement of Glycated Hemoglobin,”
-    • PCT Application: WO2021210724A1, Published: October 21, 2021. [Online](https://patents.google.com/patent/WO2021210724A1/en)
-    • US Application: US20240225495A1, Published: July 11, 2024. [Online](https://patents.google.com/patent/US20240225495A1/en)
+    - PCT Application: WO2021210724A1, Published: October 21, 2021. [Online](https://patents.google.com/patent/WO2021210724A1/en)
+    - US Application: US20240225495A1, Published: July 11, 2024. [Online](https://patents.google.com/patent/US20240225495A1/en)
 8. Ki-Doo Kim and **Shifat Hossain**, “Noninvasive HbA1c Measurement System using the Beer-Lambert law and Method Thereof,” KR Patent: KR102356154B1, Issued: January 28, 2022. [Online](https://patents.google.com/patent/KR102356154B1/en)
 
 
