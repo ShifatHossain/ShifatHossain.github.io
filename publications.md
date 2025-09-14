@@ -129,9 +129,9 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
 
 ## Conferences
 
-1.  [ICMLA’25] S. Hossain, S. Jha, H. Zheng, and R. Ewetz, “Multitask Contrastive Learning using Task-Wise Training and Partitioned Embedding Space”, International Conference on Machine Learning and Applications (ICMLA), 2025.
-2.  [ICMLA’25] F. Rahat, S. Hossain, A. Ramanathan, S. Jha, H. Zheng, and R. Ewetz, “Attr-RAG: Attribution-Guided Retrieval-Augmented Generation for Scientific Experiment Design”, International Conference on Machine Learning and Applications (ICMLA), 2025.
-3.  [ICMLA’25] M. R. Ahmed, F. Rahat, S. Hossain, S. Jha, and R. Ewetz, “Street2Air: A Framework for Synthesizing Aerial Vehicle Views from Ground Images”, International Conference on Machine Learning and Applications (ICMLA), 2025.
+1.  [ICMLA’25] **S. Hossain**, S. Jha, H. Zheng, and R. Ewetz, “Multitask Contrastive Learning using Task-Wise Training and Partitioned Embedding Space”, International Conference on Machine Learning and Applications (ICMLA), 2025.
+2.  [ICMLA’25] F. Rahat, **S. Hossain**, A. Ramanathan, S. Jha, H. Zheng, and R. Ewetz, “Attr-RAG: Attribution-Guided Retrieval-Augmented Generation for Scientific Experiment Design”, International Conference on Machine Learning and Applications (ICMLA), 2025.
+3.  [ICMLA’25] M. R. Ahmed, F. Rahat, **S. Hossain**, S. Jha, and R. Ewetz, “Street2Air: A Framework for Synthesizing Aerial Vehicle Views from Ground Images”, International Conference on Machine Learning and Applications (ICMLA), 2025.
 4.  [WACV'25] F. Rahat, **S. Hossain**, R. Ahmed, S. Jha, and R. Ewetz, “Data Augmentation for Image Classification using Generative AI”, Winter Conference on Applications of Computer Vision (WACV), 2025.
 5.  [ICMLA'24] **S. Hossain**, C. Walker, S. Jha, and R. Ewetz, “Out-of-Distribution Detection for Contrastive Models using Angular Distance Measures”, International Conference on Machine Learning and Applications (ICMLA), 2024.
 6.  [ICMLA'24] F. Rahat, **S. Hossain**, R. Ahmed, and R. Ewetz, “CLE: Context-Aware Local Explanations for High Dimensional Tabular Data”, International Conference on Machine Learning and Applications (ICMLA), 2024.
