@@ -99,7 +99,7 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
 5\.	Ki-Doo Kim and **Shifat Hossain**, “Noninvasive HbA1c Measurement System and Method using Monte-Carlo Simulation,”  
     &emsp;- KR patent: KR102403577B1, Issued: May 31, 2022 [Online](https://patents.google.com/patent/KR102403577B1/en)  
     &emsp;- PCT application: WO2022045822A1, Published: March 03, 2022 [Online](https://patents.google.com/patent/WO2022045822A1/en)  
-    &emsp;- US application: US20240233961A1, Published: June 11, 2024 [Online](https://patents.google.com/patent/US20240233961A1/en)  
+    &emsp;- US patent: US12412667B2, Issued: September 09, 2025 [Online](https://patents.google.com/patent/US12412667B2/en)  
 4\. Ki-Doo Kim and **Shifat Hossain**, “Noninvasive HbA1c Measurement System and Method Thereof,” KR Patent: KR102482459B1, Issued: December 29, 2022. [Online](https://patents.google.com/patent/KR102482459B1/en)  
 3\. Ki-Doo Kim and **Shifat Hossain**, “Noninvasive HbA1c Measurement System using Photon-Diffusion Theory and Method Thereof,” KR Patent: KR102402263B1, Issued: May 27, 2022. [Online](https://patents.google.com/patent/KR102402263B1/en)  
 2\. Ki-Doo Kim and **Shifat Hossain**, “System and Method for Non-Invasive Measurement of Glycated Hemoglobin,”  
