@@ -23,9 +23,48 @@ layout: home
 </table>
 
 
-<div style="text-align: justify"> A Ph.D. candidate in Computer Engineering at the University of Central Florida. Currently working on explainable and efficient AI and its applications on autonomous vehicles, contrastive learning, diffusion models, and large language model (LLM) systems. Received Master's degree in Electronics Engineering with 2 years of research experience in hardware development, Machine Learning, and Biomedical signal and image processing. Also, have experience teaching bachelor-level students at a University as a Lecturer.
+<!-- <div style="text-align: justify"> A Ph.D. candidate in Computer Engineering at the University of Central Florida. Currently working on explainable and efficient AI and its applications on autonomous vehicles, contrastive learning, diffusion models, and large language model (LLM) systems. Received Master's degree in Electronics Engineering with 2 years of research experience in hardware development, Machine Learning, and Biomedical signal and image processing. Also, have experience teaching bachelor-level students at a University as a Lecturer.
 <br/>
-I have published a total of 15 Journal articles that includes IEEE Transactions on Biomedical Engineering, IEEE Transactions on Consumer Electronics, Expert Systems with Applications, Biomedical Signal Processing and Control, and Nature Portfolio Scientific Reports. I have also published 15 Conference articles in leading peer-reviewed venues, including WACV and AAAI. I am named as an inventor in 11 patents where 7 of them are South Korean patents (KIPO), 2 US patents (USPTO), and 2 are PCT patents (WIPO). A number of my research works are currently being adopted by health industries to develop wearable devices. </div>
+I have published a total of 15 Journal articles that includes IEEE Transactions on Biomedical Engineering, IEEE Transactions on Consumer Electronics, Expert Systems with Applications, Biomedical Signal Processing and Control, and Nature Portfolio Scientific Reports. I have also published 15 Conference articles in leading peer-reviewed venues, including WACV and AAAI. I am named as an inventor in 11 patents where 7 of them are South Korean patents (KIPO), 2 US patents (USPTO), and 2 are PCT patents (WIPO). A number of my research works are currently being adopted by health industries to develop wearable devices. </div> -->
+
+<p style="text-align: justify">
+    I am a <strong>Ph.D. candidate in Computer Engineering</strong> at the
+    <strong>University of Central Florida</strong>, with a research focus on
+    <strong>explainable and efficient artificial intelligence</strong>. My current work
+    explores applications of AI in <strong>autonomous vehicles</strong>,
+    <strong>contrastive learning</strong>, <strong>diffusion models</strong>, and
+    <strong>large language model (LLM) systems</strong>.
+  </p>
+
+  <p style="text-align: justify">
+    I earned my <strong>Master’s degree in Electronics Engineering</strong> and have over
+    <strong>two years of research experience</strong> in
+    <strong>hardware development</strong>, <strong>machine learning</strong>, and
+    <strong>biomedical signal and image processing</strong>. I also have experience
+    teaching <strong>undergraduate-level courses</strong> as a university Lecturer.
+  </p>
+
+  <p style="text-align: justify">
+    My research output includes <strong>15 peer-reviewed journal publications</strong> in
+    venues such as <em>IEEE Transactions on Biomedical Engineering</em>,
+    <em>IEEE Transactions on Consumer Electronics</em>,
+    <em>Expert Systems with Applications</em>,
+    <em>Biomedical Signal Processing and Control</em>, and
+    <em>Nature Portfolio Scientific Reports</em>. In addition, I have published
+    <strong>15 conference papers</strong> in leading venues, including
+    <strong>WACV</strong> and <strong>AAAI</strong>.
+  </p>
+
+  <p style="text-align: justify">
+    I am named as an inventor on <strong>11 patents</strong>, including
+    <strong>7 South Korean patents (KIPO)</strong>,
+    <strong>2 U.S. patents (USPTO)</strong>, and
+    <strong>2 PCT patents (WIPO)</strong>. Several of my research contributions are
+    currently being translated into practice and adopted by
+    <strong>healthcare industries</strong> for the development of
+    <strong>wearable medical devices</strong>.
+  </p>
+
 <br/>
 <div style="font-style:italic;text-align: justify"><strong>Current research interests:</strong> Trustworthy AI Systems, Biomedical AI / Bio-Signal Processing, Wearable Devices, Autonomous Systems, Applications of ML in Signal and Image Processing</div>
 <br />
