@@ -23,9 +23,11 @@ layout: home
 </table>
 
 
-<div style="text-align: justify"> A Ph.D. student in Computer Engineering at the University of Central Florida. Currently working on contrastive learning, diffusion models, and explainable AI systems. Received Master's degree in Electronics Engineering with 2 years of research experience in hardware development, Machine Learning, and Biomedical signal and image processing. Also, have experience teaching bachelor-level students at a University as a Lecturer.</div>
+<div style="text-align: justify"> A Ph.D. candidate in Computer Engineering at the University of Central Florida. Currently working on explainable and efficient AI and its applications on autonomous vehicles, contrastive learning, diffusion models, and large language model (LLM) systems. Received Master's degree in Electronics Engineering with 2 years of research experience in hardware development, Machine Learning, and Biomedical signal and image processing. Also, have experience teaching bachelor-level students at a University as a Lecturer.
 <br/>
-<div style="font-style:italic;text-align: justify"><strong>Current research interests:</strong> Machine Learning and Deep Learning, Digital image processing, Digital signal/audio processing, Biomedical signal/image processing.</div>
+I have published a total of 15 Journal articles that includes IEEE Transactions on Biomedical Engineering, IEEE Transactions on Consumer Electronics, Expert Systems with Applications, Biomedical Signal Processing and Control, and Nature Portfolio Scientific Reports. I have also published 15 Conference articles in leading peer-reviewed venues, including WACV and AAAI. I am named as an inventor in 11 patents where 7 of them are South Korean patents (KIPO), 2 US patents (USPTO), and 2 are PCT patents (WIPO). A number of my research works are currently being adopted by health industries to develop wearable devices. </div>
+<br/>
+<div style="font-style:italic;text-align: justify"><strong>Current research interests:</strong> Trustworthy AI Systems, Biomedical AI / Bio-Signal Processing, Wearable Devices, Autonomous Systems, Applications of ML in Signal and Image Processing</div>
 <br />
 
 [**Download CV (PDF)**](./CV/CV_Shifat Hossain (2025).pdf)     <br /><br /><br />
