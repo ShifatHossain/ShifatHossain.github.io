@@ -69,7 +69,7 @@ I have published a total of 15 Journal articles that includes IEEE Transactions 
 <div style="font-style:italic;text-align: justify"><strong>Current research interests:</strong> Trustworthy AI Systems, Biomedical AI / Bio-Signal Processing, Wearable Devices, Autonomous Systems, Applications of ML in Signal and Image Processing</div>
 <br />
 
-[**Download CV (PDF)**](./CV/CV_Shifat Hossain (2025).pdf)     <br /><br /><br />
+[**Download CV (PDF)**](./CV/CV_Shifat Hossain (2026).pdf)     <br /><br /><br />
 
 
 
