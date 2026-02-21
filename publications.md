@@ -129,6 +129,7 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
 
 ## Conferences
 
+16\.  [**SaTC’26**] M. M. H. Gazi, **S. Hossain**, A. Hussain, S. K. Jha, and M. R. Ahmed, “SecureHLSMem: Memory-Safety Enforcement for High-Level Synthesis of Accelerators”, IEEE Conference on Secure and Trustworthy CyberInfrastructure for IoT and Microelectronics (SaTC), 2026.
 15\.  [**ICMLA’25**] **S. Hossain**, S. Jha, H. Zheng, and R. Ewetz, “Multitask Contrastive Learning using Task-Wise Training and Partitioned Embedding Space”, International Conference on Machine Learning and Applications (ICMLA), 2025.  
 14\.  [**ICMLA’25**] F. Rahat, **S. Hossain**, A. Ramanathan, S. Jha, H. Zheng, and R. Ewetz, “Attr-RAG: Attribution-Guided Retrieval-Augmented Generation for Scientific Experiment Design”, International Conference on Machine Learning and Applications (ICMLA), 2025.  
 13\.  [**ICMLA’25**] M. R. Ahmed, F. Rahat, **S. Hossain**, S. Jha, and R. Ewetz, “Street2Air: A Framework for Synthesizing Aerial Vehicle Views from Ground Images”, International Conference on Machine Learning and Applications (ICMLA), 2025.  
