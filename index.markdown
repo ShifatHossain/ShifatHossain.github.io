@@ -16,7 +16,7 @@ layout: home
 <thead>
   <tr>
     <td><img src="./images/p2_e.jpg" alt="drawing" width="200" /></td>
-    <td><br><strong>M Shifat Hossain</strong><br><br>Ph.D. Candidate<br>Graduate Research Assistant<br>AI and Computing Laboratory<br>Department of Electrical and Computer Engineering<br>University of Central Florida<br>Orlando, FL, USA<br><br>Email: <a href="mailto:mshifat.hossain@ucf.edu">mshifat.hossain@ucf.edu</a><br><br>
+    <td><br><strong>M Shifat Hossain, Ph.D.</strong><br><br>Department of Electrical and Computer Engineering<br>University of Central Florida<br>Orlando, FL, USA<br><br>Email: <a href="mailto:mshifat.hossain@ucf.edu">mshifat.hossain@ucf.edu</a><br><br>
 </td>
     </tr>
 </thead>
@@ -28,7 +28,7 @@ layout: home
 I have published a total of 15 Journal articles that includes IEEE Transactions on Biomedical Engineering, IEEE Transactions on Consumer Electronics, Expert Systems with Applications, Biomedical Signal Processing and Control, and Nature Portfolio Scientific Reports. I have also published 15 Conference articles in leading peer-reviewed venues, including WACV and AAAI. I am named as an inventor in 11 patents where 7 of them are South Korean patents (KIPO), 2 US patents (USPTO), and 2 are PCT patents (WIPO). A number of my research works are currently being adopted by health industries to develop wearable devices. </div> -->
 
 <p style="text-align: justify">
-    I am a <strong>Ph.D. candidate in Computer Engineering</strong> at the
+    I recently completed my <strong>Ph.D. in Computer Engineering</strong> at the
     <strong>University of Central Florida</strong>, with a research focus on
     <strong>explainable and efficient artificial intelligence</strong>. My current work
     explores applications of AI in <strong>autonomous vehicles</strong>,
@@ -51,7 +51,7 @@ I have published a total of 15 Journal articles that includes IEEE Transactions 
     <em>Expert Systems with Applications</em>,
     <em>Biomedical Signal Processing and Control</em>, and
     <em>Nature Portfolio Scientific Reports</em>. In addition, I have published
-    <strong>15 conference papers</strong> in leading venues, including
+    <strong>16 conference papers</strong> in leading venues, including
     <strong>WACV</strong> and <strong>AAAI</strong>.
   </p>
 
@@ -77,17 +77,19 @@ I have published a total of 15 Journal articles that includes IEEE Transactions 
 
 ## Education
 
-* **PhD in Computer Engineering** - August, 2022
+* **PhD in Computer Engineering** - May, 2026
     * **Institution**: University of Central Florida, Orlando, FL, USA
     * **Major**: Computer Engineering
     * **Lab Name**: AI and Emerging Computing Lab
     * **Research Interests**: Machine Learning, Signal processing, Digital image processing, Biomedical signal processing
+    * **Dissertation Title**: Optimization of the Structured Multi-Modal Representation Space for Efficient and Reliable AI Systems
+    * **CGPA**: 4.0 /4.0
 * **Masters of Science in Electronics Engineering** - March, 2021
     * **Institution**: Kookmin University, Seoul, Korea
     * **Major**: Electronics Engineering
     * **Lab Name**: Multimedia, Communication, and Signal Processing Lab
     * **Research Interests**: Biomedical signal processing, Machine Learning, Signal processing, Digital image processing
-    * **Thesis**: Glycated Hemoglobin Estimation Based on Photon Diffusion Theory
+    * **Thesis Title**: Glycated Hemoglobin Estimation Based on Photon Diffusion Theory
     * **Sessions Attended**: 2019 to 2021
     * **CGPA**: 4.5 /4.5
 * **Bachelor of Science in Electrical and Electronic Engineering (B.Sc.Eng.)** - May, 2017
@@ -123,7 +125,7 @@ I have published a total of 15 Journal articles that includes IEEE Transactions 
 ---
 
 ## Work Experiences
-1. **Graduate research assistant (August 2022 - Present)**
+1. **Graduate research assistant (August 2022 - May 2026)**
 Working as a graduate research assistant in AI and Emerging Computing Lab, Department of Electrical and Computer Engineering, University of Central Florida, Orlando, FL, USA. The research topics include explainable machine learning methods (XAI), ML model security, ML model trust.
 2. **Researcher (March 2021 - July 2022):**
 Working as a full-time researcher in Multimedia, Communication, and Signal Processing Lab, Department of Electronics Engineering, Kookmin University, Seoul, Korea. The research topics include noninvasive estimation of blood contents. Develop algorithms and devices to achieve the noninvasive in vivo measurements.
