@@ -36,7 +36,7 @@ Follow my Google Scholar profile [here](https://scholar.google.com/citations?use
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-  const API_URL = "https://prinetapi.mooo.com/api/citations";
+  const API_URL = "https://portfolioapi.prinethome.com/api/citations";
 
   fetch(API_URL)
     .then(res => res.json())
