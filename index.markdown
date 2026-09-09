@@ -16,7 +16,7 @@ layout: home
 <thead>
   <tr>
     <td><img src="./images/hb-photo.png" alt="drawing" width="200" /></td>
-    <td><br><strong>M Shifat Hossain, Ph.D.</strong><br><br>Department of Electrical and Computer Engineering<br>University of Central Florida<br>Orlando, FL, USA<br><br>Email: <a href="mailto:mshifat.hossain@ucf.edu">mshifat.hossain@ucf.edu</a><br><br>
+    <td><br><strong>M Shifat Hossain, Ph.D.</strong><br><br>Postdoctoral Scholar<br>College of Medicine<br>University of Central Florida<br>Orlando, FL, USA<br><br>Email: <a href="mailto:mshifat.hossain@ucf.edu">mshifat.hossain@ucf.edu</a><br><br>
 </td>
     </tr>
 </thead>
